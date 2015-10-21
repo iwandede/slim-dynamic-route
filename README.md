@@ -25,9 +25,9 @@ Change your database information
 
 ## Description
 
-Views to place your views using .twig or .html extension
-
-Models use the query from Eloquent ORM
+- Views to place your views using .twig or .html extension
+- Models use the query from Eloquent ORM
+- App Controller and routing your system
 
 ## FAQ
 Fork me
